@@ -1,0 +1,577 @@
+{
+  "name": "Mock Data",
+  "children": [
+    {
+      "name": "2022-07-19",
+      "children": [
+        {
+          "name": "Kayla B. Hicks, MD",
+          "value": 619
+        },
+        {
+          "name": "Cody-Keto Lifestyle-Meal Prep",
+          "value": 257
+        },
+        {
+          "name": "Stephanie Flores",
+          "value": 331
+        },
+        {
+          "name": "",
+          "value": 133
+        },
+        {
+          "name": "Mary Grace",
+          "value": 739
+        }
+      ]
+    },
+    {
+      "name": "2022-07-20",
+      "children": [
+        {
+          "name": "Debra",
+          "value": 261
+        },
+        {
+          "name": "Debra",
+          "value": 261
+        },
+        {
+          "name": "Debra",
+          "value": 261
+        },
+        {
+          "name": "Kawaii Destash🍒🍰🐹",
+          "value": 973
+        },
+        {
+          "name": "Caren",
+          "value": 581
+        },
+        {
+          "name": "Cassie LaBelle",
+          "value": 92
+        },
+        {
+          "name": "Nicole Armstrong",
+          "value": 938
+        }
+      ]
+    },
+    {
+      "name": "2022-01-20",
+      "children": [
+        {
+          "name": "Jason",
+          "value": 261
+        },
+        {
+          "name": "Jason",
+          "value": 261
+        },
+        {
+          "name": "Jason",
+          "value": 261
+        },
+        {
+          "value": 973
+        },
+        {
+          "name": "Caren",
+          "value": 581
+        },
+        {
+          "name": "Cassie LaBelle",
+          "value": 92
+        },
+        {
+          "name": "Nicole Armstrong",
+          "value": 938
+        }
+      ]
+    },
+    {
+      "name": "2022-02-20",
+      "children": [
+        {
+          "name": "Jason",
+          "value": 261
+        },
+        {
+          "name": "Jason",
+          "value": 261
+        },
+        {
+          "name": "Jason",
+          "value": 261
+        },
+        {
+          "name": "Kawaii Destash🍒🍰🐹",
+          "value": 973
+        },
+        {
+          "name": "Caren",
+          "value": 581
+        },
+        {
+          "name": "Cassie LaBelle",
+          "value": 92
+        },
+        {
+          "name": "Nicole Armstrong",
+          "value": 938
+        }
+      ]
+    },
+    {
+      "name": "2022-03-20",
+      "children": [
+        {
+          "value": 261
+        },
+        {
+          "value": 261
+        },
+        {
+          "name": "Jason",
+          "value": 261
+        },
+        {
+          "name": "Kawaii Destash🍒🍰🐹",
+          "value": 973
+        },
+        {
+          "name": "Caren",
+          "value": 581
+        },
+        {
+          "name": "Cassie LaBelle",
+          "value": 92
+        },
+        {
+          "name": "Nicole Armstrong",
+          "value": 938
+        }
+      ]
+    },
+    {
+      "name": "2022-05-20",
+      "children": [
+        {
+          "name": "Jason",
+          "value": 261
+        },
+        {
+          "name": "Jason",
+          "value": 261
+        },
+        {
+          "name": "Jason",
+          "value": 261
+        },
+        {
+          "name": "",
+          "value": 973
+        },
+        {
+          "name": "Caren"
+        },
+        {
+          "name": "Cassie LaBelle",
+          "value": 92
+        },
+        {
+          "name": "Nicole Armstrong",
+          "value": 938
+        }
+      ]
+    },
+    {
+      "name": "2022-07-21",
+      "children": [
+        {
+          "name": "Catherine Mengon",
+          "value": 2151
+        },
+        {
+          "name": "Catherine Mengon",
+          "value": 2151
+        },
+        {
+          "name": "Erin M. O'Grady",
+          "value": 17
+        },
+        {
+          "name": "Erin M. O'Grady",
+          "value": 17
+        },
+        {
+          "name": "🍓",
+          "value": 5589
+        },
+        {
+          "name": "🍓",
+          "value": 5589
+        },
+        {
+          "name": "🍓",
+          "value": 5589
+        }
+      ]
+    },
+    {
+      "name": "2022-01-21",
+      "children": [
+        {
+          "name": "Catherine Mengon",
+          "value": 2151
+        },
+        {
+          "name": "Catherine Mengon",
+          "value": 2151
+        },
+        {
+          "name": "Erin M. O'Grady",
+          "value": 17
+        },
+        {
+          "name": "Erin M. O'Grady",
+          "value": 17
+        },
+        {
+          "name": "🍓",
+          "value": 5589
+        },
+        {
+          "name": "🍓",
+          "value": 5589
+        },
+        {
+          "name": "🍓",
+          "value": 5589
+        }
+      ]
+    },
+    {
+      "name": "2022-02-21",
+      "children": [
+        {
+          "name": "Catherine Mengon",
+          "value": 2151
+        },
+        {
+          "name": "Catherine Mengon",
+          "value": 2151
+        },
+        {
+          "name": "Erin M. O'Grady",
+          "value": 17
+        },
+        {
+          "name": "Erin M. O'Grady",
+          "value": 17
+        },
+        {
+          "name": "🍓",
+          "value": 5589
+        },
+        {
+          "name": "🍓"
+        },
+        {
+          "name": "🍓",
+          "value": 5589
+        }
+      ]
+    },
+    {
+      "name": "2022-03-21",
+      "children": [
+        {
+          "name": "Catherine Mengon",
+          "value": 2151
+        },
+        {
+          "name": "Catherine Mengon",
+          "value": 2151
+        },
+        {
+          "name": "Erin M. O'Grady",
+          "value": 17
+        },
+        {
+          "name": "Erin M. O'Grady",
+          "value": 17
+        },
+        {
+          "name": "🍓",
+          "value": 5589
+        },
+        {
+          "name": "🍓",
+          "value": 5589
+        },
+        {
+          "name": "🍓",
+          "value": 5589
+        }
+      ]
+    },
+    {
+      "name": "2022-04-21",
+      "children": [
+        {
+          "name": "Catherine Mengon",
+          "value": 2151
+        },
+        {
+          "name": "Catherine Mengon",
+          "value": 2151
+        },
+        {
+          "name": "Erin M. O'Grady",
+          "value": 17
+        },
+        {
+          "name": "Erin M. O'Grady",
+          "value": 17
+        },
+        {
+          "name": "🍓",
+          "value": 5589
+        },
+        {
+          "name": "🍓",
+          "value": 5589
+        },
+        {
+          "name": "🍓",
+          "value": 5589
+        }
+      ]
+    },
+    {
+      "name": "2022-05-21",
+      "children": [
+        {
+          "name": "Catherine Mengon"
+        },
+        {
+          "name": "Catherine Mengon",
+          "value": 2151
+        },
+        {
+          "name": "Erin M. O'Grady",
+          "value": 17
+        },
+        {
+          "name": "Erin M. O'Grady",
+          "value": 17
+        },
+        {
+          "name": "🍓",
+          "value": 5589
+        },
+        {
+          "name": "🍓",
+          "value": 5589
+        },
+        {
+          "name": "🍓",
+          "value": 5589
+        }
+      ]
+    },
+    {
+      "name": "2022-07-22",
+      "children": [
+        {
+          "name": "Earth & Elle | Vegen collagen gummies",
+          "value": 532
+        },
+        {
+          "name": "CHARM STUDIO"
+        }
+      ]
+    },
+    {
+      "name": "2022-07-23",
+      "children": [
+        {
+          "name": "Michelle Cruz",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "name": "2022-07-24",
+      "children": [
+        {
+          "name": "Char Mullaney",
+          "value": 451
+        },
+        {
+          "name": "Padme, Iceman, Kovu 🐯🐯🐯",
+          "value": 31
+        }
+      ]
+    },
+    {
+      "name": "2022-07-28",
+      "children": [
+        {
+          "name": "ItsKrystlesBeauty(HEALTH & BEAUTY)",
+          "value": 209
+        },
+        {
+          "name": "Renee Santillan",
+          "value": 74
+        },
+        {
+          "name": "Courtney Bullard",
+          "value": 2386
+        },
+        {
+          "name": "Tanya Kamara",
+          "value": 1183
+        }
+      ]
+    },
+    {
+      "name": "2022-07-29",
+      "children": [
+        {
+          "name": "Earth & Elle | Vegen collagen gummies",
+          "value": 532
+        },
+        {
+          "name": "Shyam Patel",
+          "value": 1039
+        },
+        {
+          "name": "Paula Waffle",
+          "value": 154
+        },
+        {
+          "name": "Candida Bettis",
+          "value": 531
+        },
+        {
+          "name": "Lisa Bussiere",
+          "value": 79
+        }
+      ]
+    },
+    {
+      "name": "2022-07-31",
+      "children": [
+        {
+          "name": "Naurice Witsell",
+          "value": 130
+        },
+        {
+          "name": "Holli Beall",
+          "value": 132
+        }
+      ]
+    },
+    {
+      "name": "2022-08-01",
+      "children": [
+        {
+          "name": "JL&P💍🤴🏻👸🏼🙏🏻",
+          "value": 266
+        },
+        {
+          "name": "PC",
+          "value": 28
+        }
+      ]
+    },
+    {
+      "name": "2022-08-03",
+      "children": [
+        {
+          "name": "Tasha Larkin",
+          "value": 1001
+        }
+      ]
+    },
+    {
+      "name": "2022-08-05",
+      "children": [
+        {
+          "name": "Earth & Elle | Vegen collagen gummies",
+          "value": 532
+        },
+        {
+          "name": "Earth & Elle | Vegen collagen gummies",
+          "value": 532
+        },
+        {
+          "name": "S t a c e e   S l o a n  🇨🇦",
+          "value": 6899
+        },
+        {
+          "name": "Kat Drake",
+          "value": 1276
+        }
+      ]
+    },
+    {
+      "name": "2022-08-07",
+      "children": [
+        {
+          "name": "Jennifer 🇺🇸",
+          "value": 244
+        }
+      ]
+    },
+    {
+      "name": "2022-08-10",
+      "children": [
+        {
+          "name": "Bren 🤓",
+          "value": 334
+        }
+      ]
+    },
+    {
+      "name": "2022-08-11",
+      "children": [
+        {
+          "name": "Social Media Manager🚀|| Sergiu",
+          "value": 301500
+        }
+      ]
+    },
+    {
+      "name": "2022-08-13",
+      "children": [
+        {
+          "name": "Bill Pettinelli",
+          "value": 4976
+        }
+      ]
+    },
+    {
+      "name": "2022-08-16",
+      "children": [
+        {
+          "name": "Leslie Rodriguez",
+          "value": 1401
+        }
+      ]
+    },
+    {
+      "name": "2022-08-17",
+      "children": [
+        {
+          "name": "Padme, Iceman, Kovu 🐯🐯🐯",
+          "value": 31
+        }
+      ]
+    }
+  ]
+}
